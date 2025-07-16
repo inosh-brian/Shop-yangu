@@ -162,7 +162,7 @@ footer a:hover{
 }
 .all-products{
 	display: grid;
-	grid-template-columns: auto auto auto auto;
+	grid-template-columns: auto auto;
 	grid-gap: 5px;
 	align-items: center;
 	justify-content: space-between;
