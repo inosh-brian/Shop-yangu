@@ -163,11 +163,10 @@ footer a:hover{
 .all-products{
 	display: grid;
 	grid-template-columns: auto auto;
-	grid-gap: 5px;
+	gap: 5px;
 	align-items: center;
 	justify-content: space-between;
 	align-content: center;
-	column-gap: 10px;
 }
 .team p{
 	color: #453306;
